@@ -1,10 +1,10 @@
 
-# A MySQL-based Library Management System with real-world SQL analysis
-
-# 📚 SQL Library Management System
-
+#  📚 A MySQL-based Library Management System with real-world SQL analysis
+## SQL Library Management System
+---
 A **MySQL-based Library Management System** designed to demonstrate real-world database design, relationships, and analytical SQL queries.  
 This project focuses on **data modeling, foreign keys, joins, and business-oriented SQL analysis**.
+![](https://github.com/Nitishkumar50814/sql-library-management-system/blob/main/er-diagram/Public-Library-.jpg)
 
 ---
 
@@ -77,7 +77,7 @@ The database schema was first designed using an **EER diagram** in MySQL Workben
 ### 🔹 Data Analysis Queries
 - Retrieve books by category  
 - Calculate total rental income by category  
-- Find members registered in the last 180 days  
+- Find members registered in the last 30 days  
 - Identify books not yet returned  
 - Detect overdue books using date calculations  
 - Join employees with branch manager details  
