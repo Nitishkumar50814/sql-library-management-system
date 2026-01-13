@@ -25,6 +25,7 @@ sql-library-management-system/
 ├── sql/           # SQL schema & analysis queries
 ├── er-diagram/    # EER / ER diagram files
 └── README.md
+```
 
 ---
 
@@ -51,9 +52,10 @@ All relationships are enforced using **foreign key constraints**.
 ## 📐 ER Diagram
 The database schema was first designed using an **EER diagram** in MySQL Workbench before implementation.
 
-📁 Folder: `er-diagram/`
+ ![er-diagram](https://github.com/Nitishkumar50814/sql-library-management-system/blob/main/er-diagram/ERR_Diagram.jpg)
 
----
+------
+
 
 ## 🚀 Features & Tasks Implemented
 
